@@ -1,6 +1,6 @@
 # NightCrows Auto Detect Attack
 
-**Attack Detection** is a screen scanning application designed to detect attack events from players in real-time. When an attack is detected, the application automatically moves back to the village to ensure the player's safety.
+**NightCrows Auto Detect Attack** is a screen scanning application designed to detect attack events from players in real-time. When an attack is detected, the application automatically moves back to the village to ensure the player's safety.
 
 ## Feature:
 **Attack Detection**: Uses image to detect attack patterns from players. Automatically relocates to the village when an attack is detected.
@@ -22,7 +22,7 @@ Step4 (optional): Give discord webhook link to get notify in discord
 
 Step5: Click start
 
-### Notice: This not a while True loop and under developing more function. Now this can detect attack and comeback villager through "Base-return scroll"
+**Notice: This not a while True loop and under developing more function. Now this can detect attack and comeback villager through "Base-return scroll"**
 
 ## Future Development:
 **Multiple Windows Management**: Use an Android emulator and proxy to manage multiple devices.
