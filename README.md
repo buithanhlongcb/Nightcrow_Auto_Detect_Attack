@@ -19,7 +19,7 @@ Step3: Click listen and press your shortcut-key of "Base-return scroll"
 
 Step4 (optional): Give discord webhook link to get notify in discord
 
-Step5:Click start
+Step5: Click start
 
 Notice: This not a while True loop and under developing more function. Now this can detect attack and comeback villager through "Base-return scroll"
 
