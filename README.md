@@ -10,9 +10,13 @@
 ![Untitled](https://github.com/user-attachments/assets/720f7116-e851-4850-acb8-c1e7050e5eb0)
 This is GUI application.
 Step1: Choose a windows in combobox
+
 Step2: Choose Image need to detect(If you dont need, you can download attack-icon.png from image)
+
 Step3: Click listen and press your shortcut-key of "Base-return scroll"
+
 Step4 (optional): Give discord webhook link to get notify in discord
+
 Step5:Click start
 
 Notice: This not a while True loop and under developing more function. Now this can detect attack and comeback villager through "Base-return scroll"
