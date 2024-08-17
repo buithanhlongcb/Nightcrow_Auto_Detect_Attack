@@ -1,4 +1,4 @@
-# Auto Detect Attack
+# NightCrows Auto Detect Attack
 
 **Attack Detection** is a screen scanning application designed to detect attack events from players in real-time. When an attack is detected, the application automatically moves back to the village to ensure the player's safety.
 
