@@ -1,13 +1,12 @@
-# NightCrows Auto Detect Attack
+# Auto Detect Image
 
-**NightCrows Auto Detect Attack** is a screen scanning application designed to detect attack events from players in real-time. When an attack is detected, the application automatically moves back to the village to ensure the player's safety.
-
+**Auto Detect Image** is a screen scanning application designed to detect image events in real-time. When detected, the application automatically press key given by user.In this repo, Auto-detected works for NightCrows to detect attack by player and press 'Base-return scroll' when detected.
 ## Feature:
-**Attack Detection**: Uses image to detect attack patterns from players. Automatically relocates to the village when an attack is detected.
+**Image Detection**: Use opencv to detect image in screen. When detected, press key given and done.
 
-**Sending Discord Notify**: When detected attack, discord will receive the notify.
+**Sending Discord Notify**: When detected, discord will receive the notify that image have object detected.
 
-## Tutorial:
+## Tutorial for NightCrows:
 ![Untitled](https://github.com/user-attachments/assets/720f7116-e851-4850-acb8-c1e7050e5eb0)
 
 This is GUI application.
