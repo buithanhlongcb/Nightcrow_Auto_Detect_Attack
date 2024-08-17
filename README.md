@@ -4,7 +4,8 @@
 
 ## Feature:
 **Attack Detection**: Uses image to detect attack patterns from players. Automatically relocates to the village when an attack is detected.
-**Sending Discord**: When detected attack, discord will receive the notify.
+
+**Sending Discord Notify**: When detected attack, discord will receive the notify.
 
 ### Tutorial:
 ![Untitled](https://github.com/user-attachments/assets/720f7116-e851-4850-acb8-c1e7050e5eb0)
