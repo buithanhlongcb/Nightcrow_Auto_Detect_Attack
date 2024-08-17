@@ -29,6 +29,6 @@ Step5: Click start
 
 **Auto Move to Located**: After relocates to the village, choose save zones to farm.
 
-## Bug and contact:
+## Bug and Question:
 
 Asking me in Issues
