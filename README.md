@@ -22,7 +22,7 @@ Step4 (optional): Give discord webhook link to get notify in discord
 
 Step5: Click start
 
-### Notice: This not a while True loop and under developing more function. Now this can detect attack and comeback villager through "Base-return scroll"###
+### Notice: This not a while True loop and under developing more function. Now this can detect attack and comeback villager through "Base-return scroll"
 
 ## Future Development:
 **Multiple Windows Management**: Use an Android emulator and proxy to manage multiple devices.
