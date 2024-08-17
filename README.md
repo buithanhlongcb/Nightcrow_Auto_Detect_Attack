@@ -14,7 +14,7 @@ This is GUI application.
 
 Step1: Choose a windows in combobox
 
-Step2: Choose Image need to detect. If you dont need image, you can download attack-icon.png from image
+Step2: Choose Image need to detect. If you dont need image, you can download attack-icon.png from resource folder
 
 Step3: Click listen and press your shortcut-key of "Base-return scroll"
 
