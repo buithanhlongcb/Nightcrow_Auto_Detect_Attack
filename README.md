@@ -4,7 +4,7 @@
 ## Feature:
 **Image Detection**: Use opencv to detect image in screen. When detected, press key given and done.
 
-**Sending Discord Notify**: When detected, discord will receive the notify that image have object detected.
+**Sending Discord Notify**: When detected, Discord will receive a notification that the object is detected and the screen containing the detected object.
 
 ## Tutorial for NightCrows:
 ![Untitled](https://github.com/user-attachments/assets/720f7116-e851-4850-acb8-c1e7050e5eb0)
