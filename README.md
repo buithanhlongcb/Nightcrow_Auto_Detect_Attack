@@ -26,6 +26,13 @@ This is a GUI application.
 
 **Note**: This application is under development for additional functionality and may encounter errors. Currently, it can detect attacks and handle the return of villagers through the "Base-return scroll."
 
+This is normal status of character:
+![alt text](image-1.png)
+
+This is detected attack_icon image:
+![alt text](image.png)
+
+
 ## Future Development
 
 **Multiple Windows Management**: Manage multiple devices using an Android emulator and proxy.
@@ -35,4 +42,3 @@ This is a GUI application.
 ## Bugs and Questions
 
 Please submit any issues or questions through the GitHub Issues page.
-
